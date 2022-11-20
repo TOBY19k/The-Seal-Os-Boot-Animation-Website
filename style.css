@@ -10,12 +10,12 @@ body {
   'wght' 700,
   'GRAD' 0,
   'opsz' 48
+  text-decoration: none;
 }
 a.size-48 {
   font-size: 48px;
   font-variation-settings: 'OPSZ' 48;
 }
 a {
-  text-decoration: none;
   color: hotpink;
 }
