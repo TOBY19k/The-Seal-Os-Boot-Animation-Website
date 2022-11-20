@@ -15,4 +15,7 @@ a.size-48 {
   font-size: 48px;
   font-variation-settings: 'OPSZ' 48;
 }
-A {text-decoration: none;}
+a {
+  text-decoration: none;
+  color: hotpink;
+}
