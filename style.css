@@ -5,6 +5,7 @@ body {
           font-weight: 700;
       }
 .material-symbols-outlined {
+  color: hotpink;
   text-decoration: none;
   font-variation-settings:
   'FILL' 0,
@@ -15,7 +16,4 @@ body {
 a.size-48 {
   font-size: 48px;
   font-variation-settings: 'OPSZ' 48;
-}
-a {
-  color: hotpink;
 }
