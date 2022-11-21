@@ -17,3 +17,18 @@ a.size-48 {
   font-size: 48px;
   font-variation-settings: 'OPSZ' 48;
 }
+.pulse {
+  animation: pulse 3s infinite;
+}
+
+@keyframes pulse {
+  0% {
+    font-variation-settings: 'wght' 100;
+  }
+  50% {
+    font-variation-settings: 'wght' 700;
+  }
+  100% {
+    font-variation-settings: 'wght' 100;
+  }
+}
