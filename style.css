@@ -18,7 +18,7 @@ a.size-48 {
   font-variation-settings: 'OPSZ' 48;
 }
 .pulse {
-  animation: pulse 3s 1;
+  animation: pulse 3s;
 }
 
 @keyframes pulse {
