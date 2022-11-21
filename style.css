@@ -20,7 +20,7 @@ a.size-48 {
 .pulse {
   animation-name: pulse;
   animation-duration: 3s;
-  animation-fill-mode: forwards;
+  animation-fill-mode: backwards;
 }
 
 @keyframes pulse {
