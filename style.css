@@ -4,6 +4,9 @@ flex-direction: column;
 background-color: #cc0000;
 color: black;
 }
+a {
+color: #33bbff;
+}
 ol {
 padding-right: 10px;
 }
@@ -28,7 +31,7 @@ b {
   'GRAD' 0,
   'opsz' 48
 }
-a.size-48 {
+.size-60 {
   font-size: 60px;
   font-variation-settings: 'OPSZ' 48;
 }
