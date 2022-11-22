@@ -1,20 +1,13 @@
 .container {
 display: flex;
 flex-direction: column;
+border-radius: 30px;
 background-color: #cc0000;
 color: black;
+padding: 20px;
 }
 a {
 color: #0088cc;
-}
-ol {
-
-}
-h2 {
-
-}
-.container {
-padding: 20px;
 }
 body {
       font-family: 'Open Sans', sans-serif;
