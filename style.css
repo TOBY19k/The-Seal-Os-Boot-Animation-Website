@@ -28,3 +28,6 @@ b {
   font-size: 60px;
   font-variation-settings: 'OPSZ' 48;
 }
+img {
+ border-radius: 20px;
+}
