@@ -1,7 +1,8 @@
 .container {
 display: flex;
 flex-direction: column;
-background-color: #EDC9B5; width: 190px; }
+background-color: #EDC9B5;
+}
 .item {
 margin: 10px;
 padding: 10px;
