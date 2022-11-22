@@ -1,11 +1,10 @@
 .container {
 display: flex;
-flex-direction: column-reverse;
+flex-direction: column;
 background-color: #EDC9B5; width: 190px; }
 .item {
 margin: 10px;
 padding: 10px;
-width: 150px; height: 150px;
 }
 .container,
 .item {
