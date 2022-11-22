@@ -17,9 +17,9 @@ border-radius: 20px;
 body {
       font-family: 'Open Sans', sans-serif;
       }
-      b {
-          font-weight: 700;
-      }
+b {
+   font-weight: 700;
+   }
 .material-symbols-outlined {
   text-decoration: none;
   font-variation-settings:
