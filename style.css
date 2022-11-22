@@ -4,6 +4,9 @@ flex-direction: column;
 background-color: #e60000;
 color: black;
 }
+ol {
+padding-right: 20px;
+}
 h2 {
 padding-left: 20px;
 }
