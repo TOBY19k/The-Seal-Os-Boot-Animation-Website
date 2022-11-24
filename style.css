@@ -38,3 +38,6 @@ img {
   border-radius: 30px;
   background-color: black;
 }
+.header {
+border-radius: 0;
+}
