@@ -1,7 +1,7 @@
 /* For width 400px and larger: */
 @media only screen and (min-width: 400px) {
   body {
-    background-image: url('abstract_ink_xl.jpg');
+    background-image: url('abstract_ink_xl.webp');
   }
 }
 .container {
@@ -18,7 +18,7 @@ color: #0088cc;
 }
 body {
       font-family: 'Open Sans', sans-serif;
-      background-image: url("img/abstract_ink.jpg")
+      background-image: url("img/abstract_ink.webp")
       }
 b {
    font-weight: 700;
