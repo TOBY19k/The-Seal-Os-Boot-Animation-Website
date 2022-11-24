@@ -31,6 +31,8 @@ b {
 }
 img {
  border-radius: 20px;
+ max-width: 100%;
+ height: auto;
 }
 .header {
 position: sticky;
