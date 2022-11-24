@@ -39,5 +39,11 @@ img {
   background-color: black;
 }
 .header {
+display: flex;
+flex-direction: column;
+background-color: black;
+color: white;
+padding: 20px;
+margin: 10px;
 border-radius: 0;
 }
