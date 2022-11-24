@@ -32,18 +32,18 @@ b {
 img {
  border-radius: 20px;
 }
-.sticky {
-  position: sticky;
-  top: 0;
-  border-radius: 30px;
-  background-color: black;
 }
 .header {
+position: sticky;
+top: 0;
 display: flex;
-flex-direction: column;
+flex-direction: row;
 background-color: black;
 color: white;
 padding: 20px;
 margin: 10px;
+border-radius: 30px;
+}
+.logo {
 border-radius: 0;
 }
