@@ -35,8 +35,8 @@ img {
 div.fixed {
   position: sticky;
   top: 0;
-  left: 0;
-  right: 0;
+  left: 10px;
+  right: 10px;
   border-radius: 30px;
   background-color: black;
 }
