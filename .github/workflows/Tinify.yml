@@ -2,7 +2,7 @@ name: image
 on:
   push:
     paths:
-      - '/'
+      - 'img'
 jobs:
   compress:
     runs-on: ubuntu-latest
