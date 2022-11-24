@@ -32,3 +32,9 @@ b {
 img {
  border-radius: 20px;
 }
+div.fixed {
+  position: fixed;
+  bottom: 0;
+  width: 300px;
+  border: 3px solid #73AD21;
+}
