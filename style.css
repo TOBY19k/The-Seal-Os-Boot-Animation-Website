@@ -1,3 +1,9 @@
+/* For width 400px and larger: */
+@media only screen and (min-width: 400px) {
+  body {
+    background-image: url('abstract_ink_xl.jpg');
+  }
+}
 .container {
 display: flex;
 flex-direction: column;
