@@ -1,0 +1,2 @@
+- name: Tinify Image Action
+  uses: namoscato/action-tinify@v1.3.3
