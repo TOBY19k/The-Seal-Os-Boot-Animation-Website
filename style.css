@@ -35,5 +35,5 @@ img {
 div.fixed {
   position: fixed;
   top: 0;
-  width: 25%;
+  background-color: black;
 }
