@@ -32,8 +32,7 @@ b {
 img {
  border-radius: 20px;
 }
-div.sticky {
-  display: flex;
+.sticky {
   position: sticky;
   top: 0;
   border-radius: 30px;
