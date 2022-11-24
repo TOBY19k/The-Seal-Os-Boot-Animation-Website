@@ -37,5 +37,6 @@ div.fixed {
   top: 0;
   left: 0;
   right: 0;
+  border-radius: 30px;
   background-color: black;
 }
