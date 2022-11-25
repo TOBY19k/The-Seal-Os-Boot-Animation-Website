@@ -8,6 +8,7 @@ padding: 20px;
 margin: 10px;
 }
 a {
+text-decoration: none;
 color: #0088cc;
 }
 .material-symbols-outlined {
