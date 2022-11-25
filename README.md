@@ -1,2 +1,2 @@
 # The Seal Os Boot Animation Website
-This time it's going to work
+The website for [Seal Os Boot Animation](https://github.com/TOBY19k/Seal-Os-Boot-Animation-Installer).
