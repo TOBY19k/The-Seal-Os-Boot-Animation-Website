@@ -1,16 +1,4 @@
-body {
-      font-family: 'Open Sans', sans-serif;
-      background-image: url("img/abstract_ink.webp")
-      }
-b {
-   font-weight: 700;
-   }
-/* For width 400px and larger: */
-@media only screen and (min-width: 400px) {
-  body {
-    background-image: url('abstract_ink_xl.webp');
-  }
-}
+
 .container {
 display: flex;
 flex-direction: column;
@@ -44,7 +32,7 @@ img {
 position: sticky;
 top: 0;
 display: flex;
-flex-direction: column;
+flex-direction: row;
 background-color: black;
 color: white;
 padding: 20px;
@@ -54,4 +42,17 @@ border-radius: 30px;
 .transparent {
 border-radius: 0;
 width: 100px;
+}
+body {
+      font-family: 'Open Sans', sans-serif;
+      background-image: url("img/abstract_ink.webp")
+      }
+b {
+   font-weight: 700;
+   }
+/* For width 400px and larger: */
+@media only screen and (min-width: 400px) {
+  body {
+    background-image: url('abstract_ink_xl.webp');
+  }
 }
