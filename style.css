@@ -28,6 +28,14 @@ color: black;
 padding: 20px;
 margin: 10px;
 }
+.install {
+background-color: black;
+color: white;
+}
+.uninstall {
+border-style: solid;
+border-width: medium;
+}
 a {
 color: #0088cc;
 text-decoration: none;
