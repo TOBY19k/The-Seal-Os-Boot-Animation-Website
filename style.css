@@ -24,6 +24,7 @@ color: #0088cc;
 }
 body {
       font-family: 'Open Sans', sans-serif;
+      background-image: url("img/abstract_ink.webp");
 }
 b {
    font-weight: 700;
