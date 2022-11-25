@@ -46,7 +46,7 @@ text-decoration: none;
 }
 body {
       font-family: 'Open Sans', sans-serif;
-      background-image: url("img/abstract_ink.webp");
+      background-image: url("https://raw.githubusercontent.com/LineageOS/android_packages_apps_Backgrounds/lineage-16.0/app/src/main/res_1440p/full/drawable-nodpi/abstract_ink.jpg");
 }
 b {
    font-weight: 700;
