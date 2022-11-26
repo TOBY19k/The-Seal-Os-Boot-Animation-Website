@@ -54,6 +54,7 @@ border-radius: 30px;
 .uninstall {
 border-style: solid;
 border-width: medium;
+border-color: black;
 color: black;
 border-radius: 30px;
 }
