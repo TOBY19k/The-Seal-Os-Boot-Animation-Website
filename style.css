@@ -22,6 +22,7 @@
 .container {
 display: flex;
 flex-direction: column;
+align-items: flex-start;
 border-radius: 30px;
 background-color: #3fda85;
 color: black;
