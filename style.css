@@ -53,10 +53,6 @@ color: white;
 border-radius: 30px;
 cursor: pointer;
 }
-.install:hover {
-  background-color: #3fda85;
-  color: black;
-}
 .install:active {
   background-color: #3fda85;
   color: black;
