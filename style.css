@@ -32,12 +32,14 @@ margin: 10px;
 background-color: black;
 color: white;
 border-radius: 30px;
+flex: auto
 }
 .uninstall {
 border-style: solid;
 border-width: medium;
 color: black;
 border-radius: 30px;
+flex: auto
 }
 a {
 color: #0088cc;
