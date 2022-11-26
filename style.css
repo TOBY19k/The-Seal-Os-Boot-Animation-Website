@@ -54,6 +54,7 @@ border-color: black;
 background-color: black;
 color: white;
 border-radius: 30px;
+margin-bottom: 10px;
 cursor: pointer;
 }
 .install:active {
