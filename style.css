@@ -31,11 +31,13 @@ margin: 10px;
 .install {
 background-color: black;
 color: white;
+border-radius: 30px;
 }
 .uninstall {
 border-style: solid;
 border-width: medium;
 color: black;
+border-radius: 30px;
 }
 a {
 color: #0088cc;
