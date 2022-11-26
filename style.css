@@ -42,6 +42,7 @@ margin: 10px;
 .button > * {
         flex: 1 0 1;
         padding: 4px;
+        width: 125%;
       }
 .install {
 border-style: solid;
