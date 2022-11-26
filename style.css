@@ -64,6 +64,11 @@ border-color: black;
 background-color: #3fda85;
 color: black;
 border-radius: 30px;
+cursor: pointer;
+}
+.uninstall:active {
+  background-color: black;
+  color: white;
 }
 a {
 color: #0088cc;
