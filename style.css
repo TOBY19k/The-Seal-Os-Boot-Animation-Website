@@ -38,6 +38,8 @@ padding: 20px;
 margin: 10px;
 }
 .install {
+border-style: solid;
+border-width: medium;
 background-color: black;
 color: white;
 border-radius: 30px;
