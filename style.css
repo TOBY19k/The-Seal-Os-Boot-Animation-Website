@@ -29,21 +29,6 @@ color: black;
 padding: 20px;
 margin: 10px;
 }
-.button {
-display: flex;
-flex-direction: row;
-justify-content: space-evenly;
-border-radius: 30px;
-background-color: #3fda85;
-color: black;
-padding: 20px;
-margin: 10px;
-}
-.button > * {
-        flex: 1 0 1;
-        padding: 4px;
-        font-size: 125%;
-      }
 .install {
 flex: 1 0 1;
 padding: 4px;
@@ -91,7 +76,6 @@ text-decoration: none;
 }
 .size-60 {
   font-size: 60px;
-  font-variation-settings: 'OPSZ' 48;
 }
 body {
       font-family: 'Open Sans', sans-serif;
