@@ -40,6 +40,7 @@ margin: 10px;
 .install {
 border-style: solid;
 border-width: medium;
+border-color: black;
 background-color: black;
 color: white;
 border-radius: 30px;
