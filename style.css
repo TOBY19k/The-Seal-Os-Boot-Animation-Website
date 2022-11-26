@@ -112,6 +112,7 @@ top: 0;
 display: flex;
 flex-direction: row;
 justify-content: flex-start;
+gap: 10%;
 background-color: black;
 color: white;
 padding: 20px;
