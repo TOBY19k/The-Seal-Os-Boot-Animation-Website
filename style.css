@@ -5,18 +5,14 @@
 @keyframes slidein {
   from {
     margin-left: 100%;
-    width: 200%;
   }
 
   75% {
-    font-size: 200%;
     margin-left: 25%;
-    width: 150%;
   }
 
   to {
     margin-left: 0%;
-    width: 100%;
   }
 }
 .container {
