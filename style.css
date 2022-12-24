@@ -15,53 +15,60 @@
     margin-left: 0%;
   }
 }
+
 .container {
-display: flex;
-flex-direction: column;
-justify-content: flex-start;
-border-radius: 30px;
-background-color: #3fda85;
-color: black;
-padding: 20px;
-margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  border-radius: 30px;
+  background-color: #3fda85;
+  color: black;
+  padding: 20px;
+  margin: 10px;
 }
+
 .install {
-flex: 1 0 1;
-padding: 4px;
-font-size: 125%;
-border-style: solid;
-border-width: medium;
-border-color: black;
-background-color: black;
-color: white;
-border-radius: 30px;
-margin-bottom: 10px;
-cursor: pointer;
+  flex: 1 0 1;
+  padding: 4px;
+  font-size: 125%;
+  border-style: solid;
+  border-width: medium;
+  border-color: black;
+  background-color: black;
+  color: white;
+  border-radius: 30px;
+  margin-bottom: 10px;
+  cursor: pointer;
 }
+
 .install:active {
   background-color: #3fda85;
   color: black;
 }
+
 .uninstall {
-flex: 1 0 1;
-padding: 4px;
-font-size: 125%;
-border-style: solid;
-border-width: medium;
-border-color: black;
-background-color: #3fda85;
-color: black;
-border-radius: 30px;
-cursor: pointer;
+  flex: 1 0 1;
+  padding: 4px;
+  font-size: 125%;
+  border-style: solid;
+  border-width: medium;
+  border-color: black;
+  background-color: #3fda85;
+  color: black;
+  border-radius: 30px;
+  cursor: pointer;
 }
+
 .uninstall:active {
   background-color: black;
   color: white;
 }
+
 a {
-color: #0088cc;
-text-decoration: none;
+  color: #0088cc;
+  text-decoration: none;
 }
+
 .material-symbols-outlined {
   text-decoration: none;
   font-variation-settings:
@@ -70,36 +77,42 @@ text-decoration: none;
   'GRAD' 0,
   'opsz' 48
 }
+
 .size-60 {
   font-size: 60px;
 }
+
 body {
-      font-family: 'Open Sans', sans-serif;
-      background-color: black;
-      background-image: url("img/abstract_ink_xl.webp");
+  font-family: 'Open Sans', sans-serif;
+  background-color: black;
+  background-image: url("img/abstract_ink_xl.webp");
 }
+
 b {
-   font-weight: 700;
+  font-weight: 700;
 }
+
 img {
- border-radius: 20px;
- max-width: 100%;
- height: auto;
+  border-radius: 20px;
+  max-width: 100%;
+  height: auto;
 }
+
 header {
-position: sticky;
-top: 0;
-display: flex;
-flex-direction: row;
-justify-content: flex-start;
-align-content: center;
-gap: 20%;
-background-color: black;
-color: white;
-padding: 20px;
-margin: 10px;
-border-radius: 30px;
+  position: sticky;
+  top: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-content: center;
+  gap: 20%;
+  background-color: black;
+  color: white;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 30px;
 }
+
 .transparent {
-border-radius: 0;
+  border-radius: 0;
 }
