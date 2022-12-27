@@ -78,7 +78,7 @@ img {
 }
 
 .slidein {
-  animation-duration: 3s;
+  animation-duration: 2.5s;
   animation-name: slidein;
 }
 
