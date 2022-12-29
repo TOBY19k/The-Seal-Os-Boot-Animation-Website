@@ -1,3 +1,9 @@
+:root {
+  background-color: black;
+  background-image: url("img/abstract_ink_xl.webp");
+  font-family: 'Open Sans', sans-serif;
+}
+
 a {
   color: #0088cc;
   text-decoration: none;
@@ -5,12 +11,6 @@ a {
 
 b {
   font-weight: 700;
-}
-
-body {
-  background-color: black;
-  background-image: url("img/abstract_ink_xl.webp");
-  font-family: 'Open Sans', sans-serif;
 }
 
 .container {
