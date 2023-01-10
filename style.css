@@ -4,6 +4,10 @@
   font-family: 'Open Sans', sans-serif;
 }
 
+.404 {
+  background-image: url("img/404.webp");
+}
+
 a {
   color: #0088cc;
   text-decoration: none;
