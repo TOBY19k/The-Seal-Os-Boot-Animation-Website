@@ -1,4 +1,5 @@
 :root {
+  --main-color: #3fda85;
   background-color: black;
   background-image: url("img/abstract_ink_xl.webp");
   font-family: 'Open Sans', sans-serif;
@@ -15,7 +16,7 @@ b {
 
 .flex-container {
   border-radius: 30px;
-  background-color: #3fda85;
+  background-color: var(--main-color);
   color: black;
   display: flex;
   flex-direction: column;
@@ -51,7 +52,7 @@ img {
   border-style: solid;
   border-width: medium;
   background-color: black;
-  color: #3fda85;
+  color: var(--main-color);
   cursor: pointer;
   flex: 1 0 1;
   font-size: 125%;
@@ -60,7 +61,7 @@ img {
 }
 
 .install:active {
-  background-color: #3fda85;
+  background-color: var(--main-color);
   color: black;
 }
 
@@ -103,7 +104,7 @@ img {
   border-radius: 30px;
   border-style: solid;
   border-width: medium;
-  background-color: #3fda85;
+  background-color: var(--main-color);
   color: black;
   cursor: pointer;
   flex: 1 0 1;
@@ -113,5 +114,5 @@ img {
 
 .uninstall:active {
   background-color: black;
-  color: #3fda85;
+  color: var(--main-color);
 }
